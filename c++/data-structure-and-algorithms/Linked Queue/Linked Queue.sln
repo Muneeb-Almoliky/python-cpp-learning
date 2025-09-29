@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Linked Queue", "Linked Queue\Linked Queue.vcxproj", "{A7CE5512-E9FD-41F1-ACB5-19D354BA77DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7CE5512-E9FD-41F1-ACB5-19D354BA77DA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A7CE5512-E9FD-41F1-ACB5-19D354BA77DA}.Debug|Win32.Build.0 = Debug|Win32
+		{A7CE5512-E9FD-41F1-ACB5-19D354BA77DA}.Release|Win32.ActiveCfg = Release|Win32
+		{A7CE5512-E9FD-41F1-ACB5-19D354BA77DA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

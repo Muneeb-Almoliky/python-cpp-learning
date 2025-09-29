@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "constructor and class methods", "constructor and class methods\constructor and class methods.vcxproj", "{FE3E4358-F5CB-4AC3-80F4-64D92A541127}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE3E4358-F5CB-4AC3-80F4-64D92A541127}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FE3E4358-F5CB-4AC3-80F4-64D92A541127}.Debug|Win32.Build.0 = Debug|Win32
+		{FE3E4358-F5CB-4AC3-80F4-64D92A541127}.Release|Win32.ActiveCfg = Release|Win32
+		{FE3E4358-F5CB-4AC3-80F4-64D92A541127}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
